@@ -3,5 +3,5 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
-最新版本V1.2
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.2/V1.2.exe)
+最新版本V1.21
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.21/release.exe)
