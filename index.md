@@ -3,12 +3,15 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
-最新版本V1.21
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.21/release.exe)
+最新版本V1.22
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.22/release.exe)
 
 当前试用政策：每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
 
 ## 更新日志
+### 2019-5-29 V1.22
+- 彻底解决登录稳定性问题
+
 ### 2019-5-28 V1.21
 - 提升了稳定性
 - 增加了登录失败提示中官网的入口
