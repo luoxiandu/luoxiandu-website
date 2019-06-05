@@ -3,12 +3,20 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
- 最新版本：**V1.31**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.31/release.exe)
+ 最新版本：**V1.32**
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.32/release.exe)
 
 当前试用政策：每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
 
 ## 更新日志
+### 2019-6-5 V1.32
+- 修复Win7下崩溃的问题
+- 提升了线程安全性
+- 降低网络要求
+- 增加托盘图标，注入后自动最小化
+- 更改界面主题（修改自IntelliJ Darcula）
+- 增大了字体
+
 ### 2019-5-31 V1.31
 - 区分单独认证通道，防止认证信息错乱
 
