@@ -18,6 +18,8 @@ GTA5最好的免费外挂平台
 ![酷睿i3](https://www.intel.cn/content/dam/www/global/badges/badge-9th-gen-core-i3.png.rendition.intel.web.84.84.png)
 ![奔腾](https://www.intel.cn/content/dam/www/global/badges/badge-pentium.png.rendition.intel.web.84.84.png)
 ![赛扬](https://www.intel.cn/content/dam/www/global/badges/badge-celeron.png.rendition.intel.web.84.84.png)
+![锐龙线程撕裂者](RyzenTR.png)
+![锐龙](Ryzen.png)
 
 
 ## 更新日志
