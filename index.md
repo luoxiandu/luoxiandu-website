@@ -6,9 +6,25 @@ GTA5最好的免费外挂平台
  最新版本：**V1.32**
 [点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.32/release.exe)
 
-当前试用政策：每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
+**当前试用政策：**
+每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
+
+**支持CPU：**
+
+![志强](https://www.intel.cn/content/dam/www/global/badges/badge-xeon.png.rendition.intel.web.84.84.png)
+![酷睿i9](https://www.intel.cn/content/dam/www/global/badges/badge-9th-gen-core-i9.png.rendition.intel.web.84.84.png)
+![酷睿i7](https://www.intel.cn/content/dam/www/global/badges/badge-9th-gen-core-i7.png.rendition.intel.web.84.84.png)
+![酷睿i5](https://www.intel.cn/content/dam/www/global/badges/badge-9th-gen-core-i5.png.rendition.intel.web.84.84.png)
+![酷睿i3](https://www.intel.cn/content/dam/www/global/badges/badge-9th-gen-core-i3.png.rendition.intel.web.84.84.png)
+![奔腾](https://www.intel.cn/content/dam/www/global/badges/badge-pentium.png.rendition.intel.web.84.84.png)
+![赛扬](https://www.intel.cn/content/dam/www/global/badges/badge-celeron.png.rendition.intel.web.84.84.png)
+
 
 ## 更新日志
+### 2019-6-6 V1.32hotfix
+- 取消了AVX2指令集优化，使得程序可以在远古机器上运行
+- 优化了内存布局
+
 ### 2019-6-5 V1.32
 - 修复Win7下崩溃的问题
 - 提升了线程安全性
