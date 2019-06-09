@@ -3,8 +3,8 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
- 最新版本：**V1.32**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.32/release.exe)
+ 最新版本：**V1.40**
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.40/release.exe)
 
 **当前试用政策：**
 每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
@@ -23,6 +23,12 @@ GTA5最好的免费外挂平台
 
 
 ## 更新日志
+### 2019-6-9 V1.40
+- 增加群内用户增值服务功能
+- 增加查询Rockstar服务器状态功能（可能需要代理）
+- 界面修改
+- 提升安全性
+
 ### 2019-6-6 V1.32hotfix
 - 取消了AVX2指令集优化，使得程序可以在远古机器上运行
 - 优化了内存布局
