@@ -5,6 +5,11 @@ img {
 body {
     margin: 0;
     background: black;
-    width: 678px;
-    height: 745px;
+    width: 100vw;
+    height: 100vh;
+}
+
+#poster-img {
+    width: 100vw;
+    height: 100vh;
 }
