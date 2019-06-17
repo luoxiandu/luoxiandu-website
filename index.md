@@ -3,8 +3,8 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
- 最新版本：**V1.40**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.40/release.exe)
+ 最新版本：**V1.45**
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.45/release.exe)
 
 **当前试用政策：**
 每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
