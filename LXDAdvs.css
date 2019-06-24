@@ -4,7 +4,7 @@ img {
 
 body {
     margin: 0;
-    background: url("bg.png");
+    background: #1B2838 /*url("bg.png")*/;
     width: 100vw;
     height: 100vh;
 }
