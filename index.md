@@ -3,8 +3,8 @@ GTA5最好的免费外挂平台
 
 ![主界面](mainwindow.png)
 
- 最新版本：**V1.49**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.49/release.exe)
+ 最新版本：**V1.50**
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.50/release.exe)
 
 **当前试用政策：**
 每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
@@ -23,6 +23,14 @@ GTA5最好的免费外挂平台
 
 
 ## 更新日志
+### 2019-7-2 V1.50
+```
+CRC32: 31C04978
+MD5: A0AC6BA7FA8326F3F84A88696B42D8CB
+SHA-1: 0B3AF18542D924AF9E8AD935BC1ED3E46AB4B9D5
+```
+- 修复闪退及崩溃
+
 ### 2019-6-30 V1.49
 ```
 CRC32: CD969A2F
