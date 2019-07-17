@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>订单管理</title>
+</head>
+<body>
+<div id="app">
+    <span>{{message}}</span>
+    <table>
+        <tr v-for="i in table">
+            <td>{{ i.fuck }}</td>
+        </tr>
+    </table>
+</div>
+</body>
+
+<script src="vue.js"></script>
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            message: "shit",
+            table: [
+                {fuck:'fuck1'},
+                {fuck:'fuck2'},
+            ]
+        }
+    });
+</script>
+
+</html>
