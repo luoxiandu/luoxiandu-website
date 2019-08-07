@@ -1,5 +1,5 @@
 # 欢迎来到洛仙都
-GTA5最好的免费外挂平台
+GTA5辅助平台
 
 ![主界面](mainwindow.png)
 
@@ -7,8 +7,14 @@ GTA5最好的免费外挂平台
 [点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.60/release.exe)
 
 **当前试用政策：**
-每个试用用户每次登录最长可试用一小时，不限制登录次数和请求次数
+每个试用用户每次登录最长可试用一小时，每天仅可试用一次。
 
+## 通知
+近期，有一些组织眼红洛仙都的优秀成绩，蓄意破坏，导致洛仙都原群被恶意举报封禁。  
+请各位用户进入新的支持群：667556362  
+另外敬告这些不法分子：如果您觉得我们的产品系搬运而来，请您搬个一模一样的给大家看看。
+
+<!---
 **支持CPU：**
 
 ![志强](https://www.intel.cn/content/dam/www/global/badges/badge-xeon.png.rendition.intel.web.84.84.png)
@@ -20,7 +26,7 @@ GTA5最好的免费外挂平台
 ![赛扬](https://www.intel.cn/content/dam/www/global/badges/badge-celeron.png.rendition.intel.web.84.84.png)
 ![锐龙线程撕裂者](RyzenTR.png)
 ![锐龙](Ryzen.png)
-
+---->
 
 ## 更新日志
 ### 2019-7-28 V1.60
@@ -29,7 +35,7 @@ CRC32: 3E935F7B
 MD5: 94771CCD8A80C99DA9629335EC35E8DA
 SHA-1: 24E4A4A61DC4625FE5CBAEE479F040FC42E2C582
 ```
-- 支持游戏版本V1.47
+- 支持游戏版本 V1.47/v1.48
 - 更换团队，修改版权信息
 
 ### 2019-7-17 V1.53
