@@ -4,7 +4,8 @@ GTA5辅助平台
 ![主界面](mainwindow.png)
 
  最新版本：**V1.61**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.61/release.exe)
+[本地下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.61/release.exe)
+[网盘高速下载](https://u19529786.pipipan.com/fs/19529786-392093399)
 
 **当前试用政策：**
 每个试用用户每次登录最长可试用一小时，每天仅可试用一次。
