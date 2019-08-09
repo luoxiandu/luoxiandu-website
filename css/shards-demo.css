@@ -164,7 +164,7 @@
           transform: translate(-50%);
   top: 10vh;
   z-index: 1;
-  width: 460px;
+  width: 45vh;
   -webkit-animation: float 7s ease-in-out infinite;
           animation: float 7s ease-in-out infinite;
 }
