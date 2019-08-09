@@ -3,8 +3,8 @@ GTA5辅助平台
 
 ![主界面](mainwindow.png)
 
- 最新版本：**V1.60**
-[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.60/release.exe)
+ 最新版本：**V1.61**
+[点击下载](//github.com/luoxiandu/luoxiandu.com/releases/download/1.61/release.exe)
 
 **当前试用政策：**
 每个试用用户每次登录最长可试用一小时，每天仅可试用一次。
@@ -29,6 +29,16 @@ GTA5辅助平台
 ---->
 
 ## 更新日志
+### 2019-8-9 V1.61
+```
+CRC32: AA5CF416
+MD5: ED7BEAB5B7187449BDFDED899F401762
+SHA-1: 4B11E3789B93BC21637B41B21F0EE59FE4F96F19
+```
+- 界面优化
+- 取消配音
+- 更换联络信息
+
 ### 2019-7-28 V1.60
 ```
 CRC32: 3E935F7B
