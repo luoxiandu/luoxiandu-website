@@ -104,7 +104,7 @@
 
 .welcome .product-by p {
   font-size: 10px;
-  color: #4E4B42;
+  color: #fff;  /*#4E4B42*/
   text-transform: uppercase;
   margin: 0;
 }
